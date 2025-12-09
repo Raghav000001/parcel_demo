@@ -1,3 +1,6 @@
  - npm init
  - install parcel = npm i parcel
- - np
+ - install react - npm i react react-dom
+ - scripts - "start":"parcel index.html"
+ - npx parcel index.html
+ - local server
