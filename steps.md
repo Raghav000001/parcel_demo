@@ -1,0 +1,3 @@
+ - npm init
+ - install parcel = npm i parcel
+ - np
